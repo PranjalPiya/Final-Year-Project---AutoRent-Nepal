@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1071595309973",
+    "project_id": "autorentnepal",
+    "storage_bucket": "autorentnepal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071595309973:android:05b3aca1ca37ea5b8d049c",
+        "android_client_info": {
+          "package_name": "com.example.auto_rent_nepal_fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071595309973-esskrikc4f4cfqtrmj7rsof5c6e5jjls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv5QSEasYPVCNVkKzDb7SMLD1cq3fS59Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071595309973-esskrikc4f4cfqtrmj7rsof5c6e5jjls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
